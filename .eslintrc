@@ -1,0 +1,7 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "@mbise1993/eslint-config-typescript",
+    "@mbise1993/eslint-config-react"
+  ]
+}
